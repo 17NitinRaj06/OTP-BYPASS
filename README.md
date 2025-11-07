@@ -12,7 +12,7 @@ Kali Linux: Penetration testing OS.
 
 Burp Suite: Web vulnerability scanner and proxy tool.
 
-Optional: Web browser (e.g., Firefox), vulnerable web app for testing.
+Optional: Web browser (e.g., Firefox), vulnerable web app for testing(https://www.bakingo.com/).
 
 3. Setup
 
