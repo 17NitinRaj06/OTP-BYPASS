@@ -1,5 +1,4 @@
-🔐 OTP Bypass Project Summary (Kali Linux + Burp Suite)
-
+# OTP-BYPASS
 1. Objective
 
 Demonstrate how OTP (One-Time Password) verification can be bypassed using Burp Suite.
